@@ -1,6 +1,6 @@
 ## phpunit7_with_composer
 
-#### Getting Started with PHPUnit 7 with composer
+#### Running PHPUnit 7 with composer autoloader
 
 `Note:` This PHPUnit tests assumes that you use PHP 7.1 or PHP 7.2.
 
