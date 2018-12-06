@@ -1,6 +1,7 @@
 {
   "name": "phpunit7_with_composer",
   "description": "Running PHPUnit 7 with composer autoloader",
+  "license": "MIT",
   "require": {},
   "require-dev": {
     "phpunit/phpunit": "^7"
